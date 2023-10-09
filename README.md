@@ -33,7 +33,7 @@ The document description is as follows:
 
 | crnn_str_multi_v.pth                            | crnn_str_background.pth                                      | crnn_str_single_simple.pth                                  |
 | ----------------------------------------------- | ------------------------------------------------------------ | ----------------------------------------------------------- |
-| Trained by `crnn_str.ipynb` and 5-word dataset. | Trained by`crnn_str.ipynb` and 3-word dataset with background. | Trained bt `crnn_str_simple.ipynb` and single word dataset. |
+| Trained by `crnn_str.ipynb` using 5-word dataset. | Trained by`crnn_str.ipynb` using 3-word dataset with background. | Trained bt `crnn_str_simple.ipynb` using single word dataset. |
 
 ## References:
 
