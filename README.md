@@ -21,9 +21,9 @@ The amount of training data for all models is 10000.
 
 ## Comment
 
-`crnn_str_simple-ipynb` is a simple CRNN implementation that can be used with **a single word ** dataset with good results.
+`crnn_str_simple-ipynb` is a simple CRNN implementation that can be used with **a single word** dataset with good results.
 
-`crnn_str.ipynb` can be used to identify text images of different lengths, and can also modify parameters to select **single channel ** (grayscale image) or **three channel ** (RGB color image)  for training and testing.
+`crnn_str.ipynb` can be used to identify text images of different lengths, and can also modify parameters to select **single channel** (grayscale image) or **three channel** (RGB color image)  for training and testing.
 
 ## Use pretrained model
 
